@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /how/
-title: How it works
+title: Guidelines
+description: Was there something?
 ---
 
-Interested in writing a retrospective? Great! Here's some info on how you can get started. 
+Interested in writing a retrospective? Great! Here's some info on how you can get started.
 
 ### Getting started
 
@@ -43,4 +44,3 @@ We want to make retrospectives open to everyone, and to require minimal oversigh
 2. The retrospective complies with our code of conduct.
 
 Note that the criteria for acceptance of the retrospective to the NeurIPS 2019 workshop may be more stringent. If there is sufficient interest, we will consider starting an alternate publication for high-quality retrospectives, which will be reviewed more thoroughly. 
-
