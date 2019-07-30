@@ -1,8 +1,3 @@
-This section is for metadata and won't appear in final format.
----
-title:  Paper's title
----
-
 ## Retrospective for: [*"A Quick Template for Writing Retrospectives"*](https://ml-retrospectives.github.io/retrospectives/accepted_retrospectives/2099/retro-template/)
 Paper written by: Alfred Einstein, Mary Curry. 
 
